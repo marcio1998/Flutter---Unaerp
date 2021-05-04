@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22278543063",
+    "project_id": "app-loja-cafe-b2b40",
+    "storage_bucket": "app-loja-cafe-b2b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22278543063:android:58f355113a3abe443a8292",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22278543063-e205tl8jfc1p072oadfo74jpqtienh48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm7TF1G8IHjDwY2BUquMCf_dA-4-g1UgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22278543063-e205tl8jfc1p072oadfo74jpqtienh48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
